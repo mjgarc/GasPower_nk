@@ -1,0 +1,3 @@
+[submodule "stochastic_nk"]
+	path = stochastic_nk
+	url = https://github.com/kaarthiksundar/stochastic_nk.git
